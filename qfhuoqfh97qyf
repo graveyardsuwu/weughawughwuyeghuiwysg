@@ -53,7 +53,7 @@ OrionLib.Icons   = {
     Movement = "rbxassetid://10403468113";
     Visuals  = "rbxassetid://10403490626";
     Settings = "rbxassetid://10403508076";
-    Others   = "";
+    Others   = "rbxassetid://10403543022";
 };
 OrionLib.DefaultCreateObjects = {
     ["AddToggle"] = false;
